@@ -1,1 +1,1 @@
-fab lin,new,sea,rac -- "cd ~/yy;git pull;python3 yy.py"
+fab lin,new,sea,rac,vt -- "cd ~/yy;git pull;python3 yy.py"
